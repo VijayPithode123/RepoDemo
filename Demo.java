@@ -10,6 +10,7 @@ public class Demo {
 		l.add("Pihtode");
 		
 		System.out.println(l);
+		System.out.println("Hello");
 
 	}
 
